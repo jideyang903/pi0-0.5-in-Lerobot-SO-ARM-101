@@ -1,1 +1,1 @@
-# -0-0.5-in-Lerobot-SO-ARM-101
+#π0/0.5-in-Lerobot-SO-ARM-101
